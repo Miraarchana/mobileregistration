@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Sep 07 21:27:53 UTC 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-0da0-501d-00000531b188 
+on database directory memory:C:\Users\hackathon\eclipse-workspace\requesttrackview\testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/hackathon/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\Users\hackathon\eclipse-workspace\requesttrackview
+os.name=Windows Server 2019
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
